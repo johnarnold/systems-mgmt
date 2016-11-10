@@ -25,7 +25,7 @@
 
 #Build slave image:
 
-    sudo docker build -t slave jenkins-slave
+    sudo docker build -t slave sonic-slave
 
 #Add the jenkins user:
 
